@@ -3,7 +3,6 @@
  UMICH-MADS-CAPSTONE 
 # Bias Detection with Machine Learning and Bias Mitigation with Generative AI on Social Network Platforms
 ## Poster View
-# Project Title
 [![View the Poster](resources/poster-preview.png)](https://github.com/celiabbanks/biasbusters/blob/main/bias_project/src/Team21_Banks_BiasBusters_Poster-PDF.pdf)
 
 ## Watch the project introductory video.
