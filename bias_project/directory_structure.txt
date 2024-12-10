@@ -1,0 +1,52 @@
+bias-detection-mitigation/
+│
+├── .gitignore               # Ignore sensitive files and unnecessary files
+├── .env                     # Stores sensitive info (not uploaded to GitHub)
+├── README.md                # Project overview and usage instructions
+├── requirements.txt         # List of required Python libraries
+├── setup.py                 # To package the project (optional for sharing)
+├── src/                     # Main source code directory
+│   ├── __init__.py          # Marks the folder as a Python package
+│   ├── bias_detection/      # Bias detection logic
+│   │   ├── __init__.py
+│   │   ├── detect_explicit.py
+│   │   ├── detect_implicit.py
+│   │   └── terms_association.py
+│   │
+│   ├── eda/                 # Exploratory data analysis (EDA)
+│   │   ├── __init__.py
+│   │   ├── visualization_charts.py
+│   │   ├── data_statistics.py
+│   │   └── correlation_analysis.py
+│   │
+│   ├── model_training/      # Model training logic
+│   │   ├── __init__.py
+│   │   ├── train_xgboost.py
+│   │   ├── cross_validation.py
+│   │   └── data_preprocessing.py
+│   │
+│   ├── model_performance/   # Performance visualizations
+│   │   ├── __init__.py
+│   │   ├── confusion_matrix.py
+│   │   ├── feature_importance.py
+│   │   └── classification_report.py
+│   │
+│   ├── bias_mitigation/     # Bias mitigation logic
+│   │   ├── __init__.py
+│   │   ├── mitigation_with_llm.py
+│   │   ├── mitigation_responses.py
+│   │   └── llm_prompt_design.py
+│   │
+│   ├── mitigation_analysis/ # Mitigation analysis visualizations
+│   │   ├── __init__.py
+│   │   ├── analysis_charts.py
+│   │   └── response_statistics.py
+│   │
+│   └── db_utils.py          # Utilities for PostgreSQL database interactions
+│
+└── tests/                   # Test scripts
+    ├── __init__.py
+    ├── test_bias_detection.py
+    ├── test_model_training.py
+    ├── test_bias_mitigation.py
+    └── test_visualizations.py
