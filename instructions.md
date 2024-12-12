@@ -1,5 +1,5 @@
 # Instructions for performing bias detection and mitigation 
-Application Name: JenAI.py
+<b>Application Name: JenAI.py</b>
 
 1. JenAI.py is a bias detection and mitigation application that will interrogate 1 million Twitter tweets and 1 million Reddit comments. The app and associated files are located in the /src subfolder of bias_project folder. 
 
