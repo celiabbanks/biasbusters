@@ -10,3 +10,7 @@ Application Name: JenAI.py
 3. The application requires a high computing environment typical for running natural language processing routines. Suggested minimum hardware requirements are 64GB RAM, 1 CPU, 1 GPU, 1TB storage.
 
 4. A postgresql database is required for the mitigation response portion of the application.
+
+   
+
+<b><i>Copyright information: JenAI's proprietary source has limited access extending for MADS Capstone purposes. No permissions are granted for code use  otherwise.</b></i>
