@@ -1,5 +1,5 @@
 openai
-psycopg2
+psycopg2-binary
 python-dotenv
 pandas
 numpy==1.24.3
@@ -12,9 +12,10 @@ tqdm
 matplotlib
 seaborn
 wordcloud
-sklearn
+scikit-learn
 scipy
 xgboost
+
 
 
 
