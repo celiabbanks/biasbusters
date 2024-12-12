@@ -1,4 +1,4 @@
-openai>=4.0.0
+openai
 psycopg2
 python-dotenv
 pandas
