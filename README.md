@@ -8,8 +8,8 @@
 ## See the instructions.md file for code processing.
 
 [![Watch Standup 1 video](https://img.youtube.com/vi/9EGIPEpjCz0/maxresdefault.jpg)](https://youtu.be/9EGIPEpjCz0)
-[![Watch Standup 2 video](https://img.youtube.com/vi/9EGIPEpjCz0/maxresdefault.jpg)](https://youtu.be/zAwWGP9whh4)
-[![Watch Standup 3 video](https://img.youtube.com/vi/9EGIPEpjCz0/maxresdefault.jpg)](https://youtu.be/ChqeEcyr9Bo)
+[![Watch Standup 2 video](https://img.youtube.com/vi/zAwWGP9whh4/maxresdefault.jpg)](https://youtu.be/zAwWGP9whh4)
+[![Watch Standup 3 video](https://img.youtube.com/vi/ChqeEcyr9Bo/maxresdefault.jpg)](https://youtu.be/ChqeEcyr9Bo)
 
 
 
