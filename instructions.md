@@ -13,4 +13,4 @@
 
    
 
-<b><i>Copyright information: JenAI's proprietary source has limited access extending for MADS Capstone purposes. No permissions are granted for code use  otherwise.</b></i>
+<b><i>Copyright information: JenAI's proprietary source has limited access extended for MADS Capstone purposes. No permissions are granted for code use  otherwise.</b></i>
